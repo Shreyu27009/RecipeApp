@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sharebutton"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Share our app"
+        android:visible="true" />
+    <item
+        android:id="@+id/supportus"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Support Us"
+        android:visible="true" />
+    <item
+        android:id="@+id/sign_out"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Sign out"
+        android:visible="true" />
+    <item
+        android:id="@+id/about_dev"
+        android:icon="@drawable/baseline_share_24"
+        android:title="About Developer"
+        android:visible="true" />
+    <item
+        android:id="@+id/privacy_policy"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Privacy policy"
+        android:visible="true" />
+    <item
+        android:id="@+id/report_drawn"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Report"
+        android:visible="true" />
+
+</menu>
